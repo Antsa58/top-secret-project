@@ -1,4 +1,4 @@
-# top-secret-project
+# random-stuff
 Developing next level nuclear bomb...
 
 Mikä tää readme juttu on
